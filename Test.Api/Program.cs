@@ -11,7 +11,7 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 }
-
+//new edit
 app.UseHttpsRedirection();
 
 var summaries = new[]
